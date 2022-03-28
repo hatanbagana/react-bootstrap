@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Carousels from './components/Carousels';
 import Header from './components/Header';
